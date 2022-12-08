@@ -1,6 +1,7 @@
 ---
 title: "เว็บตรง :ปลอดภัย"
 description: "สมัครเว็บตรง สมัครเล่นเว็บคาสิโนที่ที่ไม่ได้เปิดโดยเอเย่นต์"
+hero: "https://i.postimg.cc/Mpg992Gw/my-current-desktop.jpg" 
 pubDate: "2021-06-08"
 tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
