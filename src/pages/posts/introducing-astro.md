@@ -2,7 +2,6 @@
 title: " สมัครเว็บตรง : มั่นใจได้"
 description: "สมัครเว็บตรง สมัครเล่นเว็บคาสิโนที่ที่ไม่ได้เปิดโดยเอเย่นต์"
 pubDate: "2021-06-08"
-hero: "/images/introducing-astro.jpg"
 tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
