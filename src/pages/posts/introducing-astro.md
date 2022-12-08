@@ -31,7 +31,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 <br>
 
-[![HnnjAcF.png](gmz789.gif)](https://nazavip.com/26174/t41626o2r59456244323y2m2l464p4)
+[![gif](gmz789.gif)](https://nazavip.com/26174/t41626o2r59456244323y2m2l464p4)
 
 ---
 <font size= "8">[<span style="color:yellow">สมัครรับโปรโมชั่นคลิกที่นี</span>่](https://nazavip.com/26174/t41626o2r59456244323y2m2l464p4)😍😍</font>  
