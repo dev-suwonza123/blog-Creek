@@ -2,7 +2,7 @@
 title: "NAZA เว็บตรงปลอดภัย"
 description: "สมัครเว็บตรง สมัครเล่นเว็บคาสิโนที่ที่ไม่ได้เปิดโดยเอเย่นต์"
 hero: "https://i.postimg.cc/Mpg992Gw/my-current-desktop.jpg"
-keywords: "nazaสล็อตเว็บตรง, เว็บตรงไม่มีขั้นต่ำ, NAZA เว็บตรงปลอดภัย"
+keywords: "nazaสล็อตเว็บตรง, เว็บตรงไม่มีขั้นต่ำ, NAZA เว็บตรงปลอดภัย,"
 pubDate: "2021-06-08"
 tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
