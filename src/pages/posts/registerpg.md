@@ -1,7 +1,7 @@
 ---
 title: "สมัครสล็อต pg เว็บตรงมั่นใจเล่นได้ผ่านวอลเลต"
 description: "สำหรับผู้ที่สนใจสมัครสล็อต pg ที่มีระบบรองรับวอเลท ต้องลองเล่นกับเราที่นี่เลย"
-hero: "https://i.postimg.cc/nhgz94nG/pg2.jpg"
+hero: "https://img.freepik.com/premium-vector/online-casino-banner-with-button-casino-playing-cards-with-poker-chips-hologram-digital-rings-dark-empty-scene_7993-7647.jp"
 keywords: "สมัครสล็อต pg, สมัครสล็อตpg, สมัครสล็อตพีจี"
 pubDate: "2022-12-08"
 tags: ["astro"]
@@ -11,7 +11,8 @@ layout: "../../layouts/BlogPostLayout.astro"
 # สมัครสล็อต pg เว็บตรงมั่นใจเล่นได้ผ่านวอลเลต
 
 
-[![สมัครสล็อต pg](https://i.postimg.cc/6qzvR8QL/pg4.jpg)](https://nazavip.com/26174/t41626o2r59456244323y2m2l464p4)
+
+<img src="https://i.postimg.cc/6qzvR8QL/pg4.jpg" alt="สมัครสล็อต pg" width="300" height="300">
 
 **สมัครสล็อต pg**  คือ  สมัครเล่นเกมสล็อตที่ผลิตโดยค่ายเกมส์ PG
 
