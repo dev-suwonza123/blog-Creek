@@ -2,12 +2,13 @@
 title: "สมัครSlotxo เว็บตรงของดีเจ้ๅแรกในไทยได้แล้ววันนี้"
 description: "สำหรับผู้ที่สนใจสมัครslotxo มีบริการหลากช่องทางทั้งธนาคารและ true wallet และโปรดีๆต้องเล่นกับเราที่นี่เลย "
 hero: "https://i.postimg.cc/sX6034F5/07.jpg"
-keywords: "สมัครสล็อต pg, สมัครสล็อตpg, สมัครสล็อตพีจี"
+keywords: "สมัครslotxo, สมัครสล็อตxo, สมัครสล็อต"
 pubDate: "2022-12-10"
 tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
+# สมัครSlotxo เว็บตรงของดีเจ้ๅแรกในไทยได้แล้ววันนี้
 
 ![สมัครslotxo](https://i.postimg.cc/sX6034F5/07.jpg)
 
