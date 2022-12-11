@@ -3,7 +3,7 @@ title: "พลาดไปเสียดายแย่ ! สมัครสล
 pubDate: "2022-12-11"
 slug: "registerslotwebtong"
 description: "ผู้ที่สนใจต้องการสมัครสล็อตเว็บตรง มีโปรโมชั่นดีให้และมีบริการเกมจากค่ายดังเช่น pg xoทุกเกมล่าสุด เล่นกับเราคุ้มค่าที่สุดแน่นอน"
-hero: "(https://i.postimg.cc/KzMPj1qB/03.jpg)"
+hero: "https://i.postimg.cc/KzMPj1qB/03.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
