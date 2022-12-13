@@ -1,11 +1,11 @@
 ---
-title: Light CSS Footprint
-subtitle: Purge CSS Bundles Only the Required CSS
-category:
-  - About Awake
-author: Daniel Kelly
-date: 2019-07-29T17:30:16.858Z
-featureImage: /uploads/purge-css-hero.jpg
+title: ฝากถอนไม่มีขั้นต่ำ เปิดรับทุกช่องทางทั้งธนาคารและวอเลทสุดคุ้มสะดวกมั่นใจ
+description: "ใครที่กำลังมองหาเว็บที่คุ้มค่า ไม่เรื่องมาก ฝากถอนไม่มีขั้นต่ำ และเป็นเว็บตรงไม่ผ่านเอเย่นต์ มีโปรโมชั่นที่คุ้มค่า มีเกมให้เล่นที่หลากหลาย หากยังหาไม่มี ต้องจัดเว็บของเรานี่แหละ"
+hero: "https://i.postimg.cc/KzpRj3sZ/01.jpg"
+keywords: "ฝากถอนไม่มีขั้นต่ำ, ถอนไม่มีขั้นต่ำ, ฝากไม่มีขั้นต่ำ,"
+pubDate: "2022-12-10"
+tags: ["astro"]
+layout: "../../layouts/BlogPostLayout.astro"
 ---
 Typically the convenience of a CSS framework like Bulma comes at the cost of sending loads of unused css to the browser increasing load times and hindering user experience. So just don't use Bulma (or Bootstrap, Tailwind, or otherwise) right? No, that can't be the answer. These frameworks add to the designer's experience and ability to quickly turn around a finished design. 
 
