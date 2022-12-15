@@ -1,14 +1,10 @@
 ---
-title: สมัครSlotxo เว็บตรงของดีเจ้ๅแรกในไทยได้แล้ววันนี้
-subtitle: สำหรับผู้ที่สนใจสมัครslotxo มีบริการหลากช่องทางทั้งธนาคารและ true wallet และโปรดีๆต้องเล่นกับเราที่นี่เลย  
-category:
-  - About Awake
-author: southblade
-date: 2022-12-03T19:59:59.000Z
-featureImage: https://i.postimg.cc/sX6034F5/07.jpg
+title: "สมัครSlotxo เว็บตรงของดีเจ้ๅแรกในไทยได้แล้ววันนี้"
+subtitle: "สำหรับผู้ที่สนใจสมัครslotxo มีบริการหลากช่องทางทั้งธนาคารและ true wallet และโปรดีๆต้องเล่นกับเราที่นี่เลย"
+description: "นักเสี่ยงโชคท่านใดที่มีความต้องการปั่น สล็อต ลองสมัคร pg slot เล่นกับเราสิ แตกง่าย อัพเดททุกเกมและมีโปรโมชั่นดีด้วย"
+pubDate: "2022-12-14"
+featureImage: "https://i.postimg.cc/sX6034F5/07.jpg"
 ---
-
-
 
 
 ![สมัครslotxo](https://i.postimg.cc/sX6034F5/07.jpg)
