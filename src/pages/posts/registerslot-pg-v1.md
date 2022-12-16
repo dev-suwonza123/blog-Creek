@@ -3,7 +3,7 @@ title: "สมัคร pg slot เล่นกับเราคุ้มสุ
 pubDate: "2022-12-14"
 slug: "slotwebtong"
 description: "นักเสี่ยงโชคท่านใดที่มีความต้องการปั่น สล็อต ลองสมัคร pg slot เล่นกับเราสิ แตกง่าย อัพเดททุกเกมและมีโปรโมชั่นดีด้วย"
-hero: "https://i.postimg.cc/Dyh7cDcs/01.jpg"
+hero: "https://i.postimg.cc/C5qs77br/02.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
@@ -125,3 +125,5 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 
 จากที่กล่าวมาทั้งหมดนี้ เราขอการันตีเลยว่าเมื่อทุกท่านได้มีโอกาสมาเดิมพัน ***สมัคร pg slot*** กับเว็บของเรา นักพนันท่านที่สมัครจะรู้สึกถึงความแตกต่างจากเว็บไซต์อื่นอย่างชัดเจน 
+
+
