@@ -1,12 +1,6 @@
 ---
-title: สมัครแทงบอล ผ่านระบบฝากถอนออนไลน์ ของดีราคาคุ้มสุดที่นี่เลย
-
-subtitle: 
-category:
-  - About Awake
-author: southblade
-date: 2022-12-03T19:59:59.000Z
-featureImage: https://i.postimg.cc/4xn58ppg/01.jpg
+title: "สมัครแทงบอล ผ่านระบบฝากถอนออนไลน์ ของดีราคาคุ้มสุดที่นี่เลย"
+https://i.postimg.cc/4xn58ppg/01.jpg
 
 
 ---

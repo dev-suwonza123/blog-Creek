@@ -1,12 +1,11 @@
 ---
-title: การันตีคุณภาพ! สมัครบาคาร่า เว็บไหนดีที่ได้เงินจริงมีโปรโมชั่นคุ้มต้องของเรา
-
-subtitle: 
-category:
-  - About Awake
-author: southblade
-date: 2022-12-04T20:59:59.000Z
-featureImage: https://i.postimg.cc/Qtdb9Phc/01.jpg
+title: "การันตีคุณภาพ! สมัครบาคาร่า เว็บไหนดีที่ได้เงินจริงมีโปรโมชั่นคุ้มต้องของเรา"
+description: "อยากจะสมัครบาคาร่า ควรเล่นเว็บแบบไหน"
+hero: "https://i.postimg.cc/Qtdb9Phc/01.jpg"
+keywords: "ฝากถอนไม่มีขั้นต่ำ, ถอนไม่มีขั้นต่ำ, ฝากไม่มีขั้นต่ำ,"
+pubDate: "2022-12-10"
+tags: ["astro"]
+layout: "../../layouts/BlogPostLayout.astro"
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-title: สมัครสล็อต pg เว็บตรงมั่นใจเล่นได้ผ่านวอลเลต
-subtitle: เล่นกับเราได้ที่นี่เว็บตรงไม่ผ่านเอเย่นต์
-category:
-  - About Awake
-author: southblade
-date: 2022-12-03T19:59:59.000Z
-featureImage: https://i.postimg.cc/nhgz94nG/pg2.jpg
+title: "สมัครสล็อต pg เว็บตรงมั่นใจเล่นได้ผ่านวอลเลต"
+description: "เล่นกับเราได้ที่นี่เว็บตรงไม่ผ่านเอเย่นต์"
+hero: "https://i.postimg.cc/nhgz94nG/pg2.jpg"
+keywords: "ฝากถอนไม่มีขั้นต่ำ, ถอนไม่มีขั้นต่ำ, ฝากไม่มีขั้นต่ำ,"
+pubDate: "2022-12-10"
+tags: ["astro"]
+layout: "../../layouts/BlogPostLayout.astro"
 ---
 # สมัครสล็อต pg เว็บตรงมั่นใจเล่นได้ผ่านวอลเลต
 
