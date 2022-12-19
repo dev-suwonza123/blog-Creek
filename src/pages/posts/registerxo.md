@@ -5,7 +5,6 @@ description: "นักเสี่ยงโชคท่านใดที่ม
 pubDate: "2022-12-14"
 featureImage: "https://i.postimg.cc/Z54gFRLB/10.jpg"
 
-<link rel="canonical" href="https://nazamvip-cool.netlify.app/posts/registerxo/" />
 ---
 
 
