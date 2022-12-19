@@ -1,11 +1,23 @@
 ---
 title: "สมัครSlotxo เว็บตรงของดีเจ้ๅแรกในไทยได้แล้ววันนี้"
+pubDate: "2022-12-14"
+slug: "registerxo"
+description: "สำหรับผู้ที่สนใจสมัครslotxo มีบริการหลากช่องทางทั้งธนาคารและ true wallet และโปรดีๆต้องเล่นกับเราที่นี่เลย"
+hero: "https://i.postimg.cc/Z54gFRLB/10.jpg"
+tags: ["go"]
+layout: "../../layouts/BlogPostLayout.astro"
+---
+
+---
+title: "สมัครSlotxo เว็บตรงของดีเจ้ๅแรกในไทยได้แล้ววันนี้"
 subtitle: "สำหรับผู้ที่สนใจสมัครslotxo มีบริการหลากช่องทางทั้งธนาคารและ true wallet และโปรดีๆต้องเล่นกับเราที่นี่เลย"
 description: "นักเสี่ยงโชคท่านใดที่มีความต้องการปั่น สล็อต ลองสมัคร pg slot เล่นกับเราสิ แตกง่าย อัพเดททุกเกมและมีโปรโมชั่นดีด้วย"
 pubDate: "2022-12-14"
 featureImage: "https://i.postimg.cc/Z54gFRLB/10.jpg"
 
 ---
+
+
 
 
 
