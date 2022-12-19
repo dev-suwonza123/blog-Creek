@@ -7,7 +7,6 @@ hero: "https://i.postimg.cc/Z54gFRLB/10.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 
-<link rel="canonical" href="https://nazamvip-cool.netlify.app/posts/registerxo/" />
 ---
 
 

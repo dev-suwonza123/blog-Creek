@@ -6,7 +6,7 @@ description: "นักเสี่ยงโชคสายไพ่ท่าน
 hero: "https://i.postimg.cc/SQgMt7kS/02.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
-<link rel="canonical" href="https://nazamvip-cool.netlify.app/posts/webbaccarat/" />
+
 ---
 
 **เว็บบาคาร่า**  คือ เว็บพนันออนไลน์ที่เปิดให้บริการเกมบาคาร่า พร้อมให้นักพนันเข้ามาเสี่ยงโชคผ่านทางการเล่นด้วยอินเตอร์เนตหรือระบบออนไลน์ทางมือถือหรือคอมพิวเตอร์ 
