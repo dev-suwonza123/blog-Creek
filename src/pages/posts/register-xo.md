@@ -102,6 +102,28 @@ slot xo บริการดีเริ่ด เปิดให้เล่�
 
 ***แหล่งข้อมูลอ้างอิงไทย [fedex.com](https://www.fedex.com/global/choose-location.html)
 
+ให้คะแนนหน้านี้
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Star rating using pure CSS</title>
+</head>
+
+<body>
+  <div class="rate">
+    <input type="radio" id="star5" name="rate" value="5" />
+    <label for="star5" title="text">5 ดาว</label>
+    <input type="radio" id="star4" name="rate" value="4" />
+    <label for="star4" title="text">4 ดาว</label>
+    <input type="radio" id="star3" name="rate" value="3" />
+    <label for="star3" title="text">3 ดาว</label>
+    <input type="radio" id="star2" name="rate" value="2" />
+    <label for="star2" title="text">2 ดาว</label>
+    <input type="radio" id="star1" name="rate" value="1" />
+    <label for="star1" title="text">1 ดาว</label>
+  </div>
+</body>
+
 ##  สรุป : สมัครสล็อตxo  เล่นพนันกับเว็บเราสิ มั่งคั่งรวยไวไม่โกงปิดเว็บหนี
 
  ![เล่นสล็อตxo](https://i.postimg.cc/htv4JYgB/09.jpg)
