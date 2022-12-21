@@ -27,7 +27,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 หากท่านนักพนันคนไหนกำลังสนใจตามหาเว็บรวมเกมสล็อตหรือเกมพนันชนิดอื่นที่ลงทุนแล้วได้กำไร ท่านสามารถสมัครสมาชิกกับเราได้เลยตอนนี้
 
  หากนึกไม่ออกว่าอยากเล่นเกมอะไร ทางเรามีคำแนะนำดีๆให้ท่านเพียงอ่านบทความของเราครบทั้งหมด ซึ่งถ้าแนะนำก็ลองเล่นเกมพีจีนะครับ กำไรมาเห็นๆเลย
- ถ้าสนใจ ลอง[สมัครสล็อตpg](registerpg) กับเราได้ที่นี่เลย
+ ถ้าสนใจ ลอง[สมัครสล็อตpg](https://nazamvip-cool.netlify.app/posts/registerpg/) กับเราได้ที่นี่เลย
 
 #### สารบัญ
 - [เผยแผ่ข้อมูลครบเครื่อง ! สมัครslotเว็บตรงของเรามีโปรโมชั่นดีๆให้เลือกสรร ](#เผยแผ่ข้อมูลครบเครื่อง--สมัครslotเว็บตรงของเรามีโปรโมชั่นดีๆให้เลือกสรร-)
@@ -159,9 +159,35 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ***แหล่งข้อมูลอ้างอิงไทย [tt-torrent.com](https://tt-torrent.com/)
 
+ให้คะแนนหน้านี้
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Star rating using pure CSS</title>
+</head>
+
+<body>
+  <div class="rate">
+    <input type="radio" id="star5" name="rate" value="5" />
+    <label for="star5" title="text">5 ดาว</label>
+    <input type="radio" id="star4" name="rate" value="4" />
+    <label for="star4" title="text">4 ดาว</label>
+    <input type="radio" id="star3" name="rate" value="3" />
+    <label for="star3" title="text">3 ดาว</label>
+    <input type="radio" id="star2" name="rate" value="2" />
+    <label for="star2" title="text">2 ดาว</label>
+    <input type="radio" id="star1" name="rate" value="1" />
+    <label for="star1" title="text">1 ดาว</label>
+  </div>
+</body>
+
 ## สรุป : สมัครslotเว็บตรงออนไลน์ที่เยี่ยมสุดในประเทศไทย มีโปรแจ่มแมวต้องเล่นที่นี่แล้ว
 
+<center>
+
 ![เล่นสล็อตออนไลน์](https://i.postimg.cc/HLvtr9gc/01.jpg)
+</center>
+
 
  เราเป็นเว็บหลักที่ไม่ผ่านเอเย่นต์ หรือตัวแทนใด ๆ และเป็น ***slotเว็บตรง*** แตกง่าย เป็นเว็บที่นักพนันหลายท่านใฝ่ฝันตามหา เล่นกับเราเว็บเดียว ครบ จบหมดทุกอย่างทุกความบันเทิง นอกจากจะมีบริการเกมสล็อตหรือเกมพนันอื่นให้เลือกเดิมพันมากมายแล้ว ยังมีโปรโมชันเคดรดิตฟรี และสูตรการทำเงินหรือรีวิวเกมให้ท่านได้ศึกษาทำกำไรกลับไปนอนกอดที่บ้านชัวร์ 
 
