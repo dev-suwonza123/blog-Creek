@@ -20,6 +20,15 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valu
 <html lang="en">
 
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QMT32V4VVZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QMT32V4VVZ');
+</script>
   <meta name="google-site-verification" content="DdEgye0t2Tti9nJ6Fwq7q3NR_zpsdq5FfBW_72YqY7Q" />
   <BaseHead title={title} description={seoDescription} />
 </head>
