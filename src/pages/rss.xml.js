@@ -5,7 +5,7 @@ const posts = Object.values(postImportResult);
 
 export const get = () =>
   rss({
-    title: "NAZA เว็บตรงปลอดภัย",
+    title: "NAZAVIP | เว็บตรงปลอดภัย",
     description: "NAZAVIP",
     site: import.meta.env.SITE,
     items: import.meta.glob("./posts/**/*.md"),
