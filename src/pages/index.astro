@@ -4,26 +4,63 @@ import Nav from '../components/Nav.astro';
 import HomeHeader from '../components/HomeHeader.astro';
 import Card from '../components/Card.astro';
 import Footer from '../components/Footer/Footer.astro'
+import { SEO } from "astro-seo";
 
 interface MarkdownFrontmatter {
   date: number;
 }
 
-const title = 'naza';
-const description = 'สังคม แห่งการ แบ่งปัน ';
-const seoDescription = 'Creek is a theme for Astro static site generator';
-
+const title = "NAZAVIP | สล็อตเว็บตรง ดีที่สุด";
+const description = "NAZA เว็บตรง ปลอดภัย";
+const seoDescription = "นักเสี่ยงโชคท่านใดที่มีความต้องการปั่น สล็อต อัพเดททุกเกมและมีโปรโมชั่นดีด้วย";
+const meta name="keyword" content= "สมัครสล็อตxo ,สมัครslotxo ,สมัครเว็บตรง";
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
----rtedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
 ---
 
 <html lang="TH">
 
 <head>
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PDQGWRJ');</script>
+  <!-- End Google Tag Manager -->
+<SEO
+      title="A Very Descriptive Title"
+      description="A heavily optimized description full of well-researched keywords."
+      openGraph={{
+        basic: {
+          title="A Very Descriptive Title"
+        }
+      }}
+      twitter={{
+        creator: "@jonasmerlins1"
+      }}
+      extend={{
+        // extending the default link tags
+        link: [{ rel: "icon", href: "/favicon.ico" }],
+        // extending the default meta tags
+        meta: [
+          {
+            name: "twitter:image",
+            content: "https://user-images.githubusercontent.com/5182256/131216951-8f74f425-f775-463d-a11b-0e01ad9fce8d.png",
+          },
+          { name: "twitter:title", content: "Tinker Tailor Soldier Spy" },
+          { name: "twitter:description", content: "Agent" },
+        ],
+      }}
+    />
+      <meta name="google-site-verification" content="DdEgye0t2Tti9nJ6Fwq7q3NR_zpsdq5FfBW_72YqY7Q" />
   <BaseHead title={title} description={seoDescription} />
 </head>
 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDQGWRJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <body class="bg-white text-black font-body leading-normal personality-casual">
   <Nav />
 
